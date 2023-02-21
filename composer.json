@@ -1,0 +1,8 @@
+{
+  "name": "test/webfonts-jetpack",
+  "license": "GPL-2.0-or-later",
+  "description": "Testing Jetpack Google Fonts with Web Fonts API",
+  "require": {
+	"automattic/jetpack-google-fonts-provider": "dev-trunk"
+  }
+}
