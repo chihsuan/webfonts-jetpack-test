@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Web API Plugin Tester
- * Plugin URI: https://github.com/test/test
- * Description: Tests a plugin interacting with the API. Uses Jetpack's Google Fonts Provider package.
+ * Plugin Name: Fonts API Test Plugin
+ * Plugin URI: https://github.com/wordpress/gutenberg
+ * Description: Fonts API tester. Uses Jetpack's Google Fonts Provider package.
  * Requires at least: 5.9
  * Requires PHP: 5.6
- * Version: 1.0.0-mmr
+ * Version: 1.0.0-ironprogrammer
  * Author: Gutenberg Team
  */
 
