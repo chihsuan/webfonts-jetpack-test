@@ -2,6 +2,12 @@
 
 This is a tester plugin for the Web Fonts API. It uses the [Jetpack Google Fonts Provider composer package](https://packagist.org/packages/automattic/jetpack-google-fonts-provider).
 
+## Modified by @ironprogrammer
+
+In this fork, fonts that are already registered in TT3 have been removed. This change is to prevent re-registration of those fonts, an issue that should be addressed separately.
+
+> 🚨 **If there were testing instructions in the ticket that led you here, those should supersede what is provided below.**
+
 ## Modified by MReishus
 
 This has been modified to match Jetpack's current implementation of the Google
